@@ -11,3 +11,5 @@ This section focuses on training models using labeled data:
 📂 Subfolders:
 - `regression/`: Predicting continuous values
 - `classification/`: Classifying data into categories
+- `supervised-learning-project/`: Hands-on data analysis using Regression and Classification
+- `data/`: Datasets for projects

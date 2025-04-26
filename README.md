@@ -58,7 +58,7 @@ Evaluate user engagement and conversions for two different landing pages using s
 
 ## 📬 Contact
 
-📧 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kwasi-nsiah-72269461/) or reach out via kkwasi6@gmail.com for collaboration opportunities.
+📧 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kwasi-nsiah) or reach out via kkwasi6@gmail.com for collaboration opportunities.
 
 ---
 
